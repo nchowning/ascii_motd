@@ -1,0 +1,53 @@
+
+                           NNMM~
+                         NZ$ZZZ$8
+                        NN$$ZZO8N
+            ?O8O=      8.,MMZZOD8M
+        :NM$$$$$$7ONO  D,..+MD88MON
+      OM$$$$$$$$$$$$$$MM$..,:NM$M$ZMM
+     ND$$$$$OZMZ$$ZZ$ZNMN,,:~=8MZZ$ZMZ8
+    M8ZZZZ$$88ZZ$$$ZZZO?,,:~~,DZZZZZZMZZN
+   DNZZZ$$$$ZZ$$ZZZZZZONZZ$Z8MZ$ZZZZZDNZZ$N
+   MZZZ$Z$$$$$ZZZZZZZZZZZZZZZZZZZZZOOZMZZZ$D
+  ZMZZ$Z$Z$$$$ZZ$ZZZMOZZZZZZZZZZZZZOOO8DZZZ8+
+  DDZZZZZ$Z$$ZZZ$ZZMOOZZZZZZZZZZZZZO88ONNN:
+  D8OZZZ$$$ZZZZZZZD87:,..,?ZZZZZZZZO8ZNOZ
+  7MOOZZZ$ZZZZZZ$ZD=:,.....:ZZZZZZO888NZ$N
+   MOOOZZZZZZZZZZZZ8:,......?ZZZZOO8ONZZZZD
+   IMOOOZZZZZZZZZZD?8,......~$ZZOOZMDZZZZN:
+    :M$8OOOOOOZZM,..........I$$ZZOMODMM+
+      OND$$Z8MN:...........~Z$ZZMOZZ$Z8N
+           M7.::,,,...,=...$ZZZONZZZZZZZN
+             NNDZ$ZDND O...Z$ZZOODZZZZZN
+                      ~=...Z$$ZOZNOZZD8
+                      Z,...$$$$OOZMOMMN88
+                      D....$$$$ZZOZMOZZZ$
+                      D....7$$$$$ZZZZNZZZ$
+                      N....+$$$$$$$$Z$DNZN
+                      N....:$$Z$$$$$$$ZZDM?:8I
+                      N.,...7$$$$$$$$$$ZZD...M8OOO8DMMM~:$               :7D8
+                      N.,...=$$$$$$$ZZZ$N...888888888D8N+..MNDDNMMMMN8$$$ZZO8
+                      8?,,...$$$Z$$$ZZZZN...MDD888888DDMI,:8OZZZZZZZZZZZZOOZD
+                       D.:...?$$DZZ$$$$$7...NDDDD8D88D8M:,,NDZZZZZZZZZZZO8OM
+                       N.:,..,$$MZZZZZZZZ...ND8DDD8D8DDM,:.MZZZZZZZZZZZO8ZM
+                        8.,...,DZZZZZMZZM...NDD8DDDDDDM,,:ZMZZZZZZZZZZO8~N
+                        8~,..OMZZZO8ZMZZM7..,M8DDD88DM,:=.MNZZZZZZZZOO=IN
+                         N.OMZZZOODZMOZZZM,..,IMNDNM7,:~.MMZZZZZZZZZ+,N:
+                          M$ZZO8ZOMDOZZZZZMN,,,,,,,,:=,?MNZZZZZZZ$:.$N
+                         M$$Z$8MI::$ZZ$$ZZZ8MD:,,:,,,8MMZOZZZZZI:.IM
+                        N$$$Z8=:,...IZZZNDZZZZDMMMMMNOOOOOZZZI:.=N:
+                        MZMZODM:,:,..,7DDZZZZZZOZOOOOOO88ZM=:.OM=
+                        ZN$NN  ,M?.::,,MZZZZZZZZOOOO888ON=,7MO
+                                 ;""""""""ZZZZZZZOO888OMDM$
+db    db  .d88b.  .d8888. db   db d888888b ZZZZZZOO88ZMNO
+`8b  d8' .8P  Y8. 88'  YP 88   88   `88'  ZZZZZZZO888MDO
+ `8bd8'  88    88 `8bo.   88ooo88    88 :MMZ$ZZZZO88NDM
+   88    88    88   `Y8b. 88~~~88    88 NZZNND88DNMM8M
+   88    `8b  d8' db   8D 88   88   .88.  ZZZZZZOOOOZ
+   YP     `Y88P'  `8888Y' YP   YP Y888888P ZZZZZZZO8Z
+                                  ........ZZZZZZZZOOZ
+                                  NZZZZZZZZZZZZZZZOOO
+                                  Z8$Z$ZZZZZZZZZOOO8D
+                                  ~O+~:,,:~~==?I77$7
+                                    $NNNNNNNN$N8ND8
+
